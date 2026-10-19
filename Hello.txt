@@ -1,3 +1,1 @@
-hello this is my fisrt gitHub project
-
-This is my second update using Git!
+Hello world - my first project
